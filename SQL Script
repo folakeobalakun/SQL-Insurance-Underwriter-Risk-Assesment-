@@ -1,8 +1,31 @@
+-- list of all staff members, including their first and last names,email addresses, and the store identification number where they work. 
+SELECT 
+	first_name,
+    last_name,
+    email,
+    store_id
+FROM 
+	staff;
+
 -- count of inventory items at each of the 2 stores
+
 SELECT 
 	store_id,
     count(*) AS inventory_items  
 from
 inventory 
-GROUP BY store_id
-	
+GROUP BY store_id;
+
+-- Count of Active customers for each store
+select 
+store_id,
+count(customer_id) AS active_customers
+from customer
+WHERE active = 1
+Group by store_id;
+
+-- total number customer emails 
+SELECT
+    COUNT(email) AS email
+FROM customer;
+
