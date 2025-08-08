@@ -1,7 +1,7 @@
 
 # Insurance Underwriter Risk Assesssment 
 
-### Tools used - MySQL
+### Tool used - MySQL
 
 A focused SQL project that answers eight underwriting and operational-risk questions an insurer typically asks before policy renewal . The analysis extracts and summarizes data across staff, stores, inventory, customers, films, rentals, and payments to provide decision ready metrics.
 
@@ -16,3 +16,5 @@ A focused SQL project that answers eight underwriting and operational-risk quest
 6. **Replacement cost profile:** least, most, and average replacement cost for films carried.
 7. **Payments risk baseline:** average payment amount and maximum payment processed.
 8. **Customer engagement:** list all customers with lifetime rental counts, sorted by highest volume
+
+1. ## We will need a list of all staff members, including their first and last names, email addresses, and the store identification number where they work. 
