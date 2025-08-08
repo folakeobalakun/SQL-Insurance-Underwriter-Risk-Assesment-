@@ -43,5 +43,5 @@ A focused SQL project that answers eight underwriting and operational-risk quest
 ## 7. we are interested in having you put payment monitoring systems and maximum payment processing restrictions in place in order to minimise the future risk of fraud by your staff, please provide the average payment you process, as well as the maximum payment you have processed. 
 <img width="1345" height="555" alt="Screenshot 2025-08-08 at 01 37 31" src="https://github.com/user-attachments/assets/9a5fb232-da55-4b09-a2a7-7d5460e231b7" />
 
-8.	We would like to better understand what your customer base looks like, please provide a list of all customer identification values, with a count of rentals they have all time with your highest volume customers at the top of the list. 
+## 8.	We would like to better understand what your customer base looks like, please provide a list of all customer identification values, with a count of rentals they have all time with your highest volume customers at the top of the list. 
 <img width="1341" height="701" alt="Screenshot 2025-08-08 at 01 42 03" src="https://github.com/user-attachments/assets/23e32a28-1da0-4651-9dea-346b9442f1e3" />
