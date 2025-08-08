@@ -22,3 +22,6 @@ A focused SQL project that answers eight underwriting and operational-risk quest
 
 <img width="1309" height="185" alt="Screenshot 2025-08-08 at 01 10 15" src="https://github.com/user-attachments/assets/a3d8fc16-0ddb-4fe3-a983-c934224a01fd" />
 <img width="652" height="267" alt="Screenshot 2025-08-08 at 01 12 22" src="https://github.com/user-attachments/assets/84e675da-575a-42f2-a605-a060dacbbe2c" />
+
+## 2. We need separate counts of inventory items held at each of the 2 stores
+<img width="1339" height="468" alt="Screenshot 2025-08-08 at 01 28 51" src="https://github.com/user-attachments/assets/7577a8bd-5556-485b-8a90-6930b0022764" />
