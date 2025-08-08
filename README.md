@@ -55,9 +55,9 @@ The company’s insurance policy was due for renewal, and the insurer’s underw
 <img width="1341" height="701" alt="Screenshot 2025-08-08 at 01 42 03" src="https://github.com/user-attachments/assets/23e32a28-1da0-4651-9dea-346b9442f1e3" />
 
 ## Key Insights
-**Operational Coverage:** Both stores maintain significant and distinct inventory volumes.
-**Customer Engagement:** Active customers are well distributed between stores.
-**Catalogue Diversity:** A wide range of films and categories indicates strong customer retention potential.
-**Risk Assessment:** Replacement costs vary greatly; high value inventory may require additional coverage.
-**Fraud Prevention:** Monitoring highvalue payments can reduce internal and external fraud risks.
-**Customer Behaviour:** Rental activity is concentrated among top customers, suggesting loyalty opportunities.
+- **Operational Coverage:** Both stores maintain significant and distinct inventory volumes.
+- **Customer Engagement:** Active customers are well distributed between stores.
+- **Catalogue Diversity:** A wide range of films and categories indicates strong customer retention potential.
+- **Risk Assessment:** Replacement costs vary greatly; high value inventory may require additional coverage.
+- **Fraud Prevention:** Monitoring highvalue payments can reduce internal and external fraud risks.
+- **Customer Behaviour:** Rental activity is concentrated among top customers, suggesting loyalty opportunities.
