@@ -3,7 +3,15 @@
 
 ### Tool used - MySQL
 
-A focused SQL project that answers eight underwriting and operational-risk questions an insurer typically asks before policy renewal . The analysis extracts and summarizes data across staff, stores, inventory, customers, films, rentals, and payments to provide decision ready metrics.
+## Overview
+This project extracts and analyses critical business data from a retail movie rental database to support an insurance policy renewal process. The underwriters required up to date operational, customer, and inventory metrics to assess organisational risk and ensure compliance.
+The SQL scripts in this repository answer specific business questions related to staff records, store inventory, customer activity, film catalogue diversity, payment processing patterns, and rental behaviour.
+
+## Business Context
+The company’s insurance policy was due for renewal, and the insurer’s underwriters requested updated data insights before issuing a new policy. The goal was to:
+      - Provide an accurate operational snapshot of the organisation.
+      - Highlight potential business risks.
+      - Demonstrate data-driven decision-making processes.
 
 ## Questions
 1. **Staff directory:** list all staff (first name, last name, email) and their store ID.
@@ -45,3 +53,11 @@ A focused SQL project that answers eight underwriting and operational-risk quest
 
 ## 8.	We would like to better understand what your customer base looks like, please provide a list of all customer identification values, with a count of rentals they have all time with your highest volume customers at the top of the list. 
 <img width="1341" height="701" alt="Screenshot 2025-08-08 at 01 42 03" src="https://github.com/user-attachments/assets/23e32a28-1da0-4651-9dea-346b9442f1e3" />
+
+## Key Insights
+**Operational Coverage:** Both stores maintain significant and distinct inventory volumes.
+**Customer Engagement:** Active customers are well distributed between stores.
+**Catalogue Diversity:** A wide range of films and categories indicates strong customer retention potential.
+**Risk Assessment:** Replacement costs vary greatly; high value inventory may require additional coverage.
+**Fraud Prevention:** Monitoring highvalue payments can reduce internal and external fraud risks.
+**Customer Behaviour:** Rental activity is concentrated among top customers, suggesting loyalty opportunities.
