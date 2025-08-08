@@ -21,3 +21,4 @@ A focused SQL project that answers eight underwriting and operational-risk quest
 1. # We will need a list of all staff members, including their first and last names, email addresses, and the store identification number where they work.
 
 <img width="1309" height="185" alt="Screenshot 2025-08-08 at 01 10 15" src="https://github.com/user-attachments/assets/a3d8fc16-0ddb-4fe3-a983-c934224a01fd" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fb16d55e-6335-49f8-ac79-9b70b3b0fbf9" />
